@@ -63,6 +63,13 @@
     "allowOffline": true
   },
   {
+    "id": "99e146daa00f9429",
+    "username": "6281220700234",
+    "password": "drakorlife",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
